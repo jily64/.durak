@@ -68,4 +68,3 @@ class Room:
         if len(self.cards_on_board) < 5:
             self.cards_on_board.append(card)
 
-    
